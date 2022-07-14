@@ -1,0 +1,58 @@
+# Created by Octave 7.1.0, Fri May 20 01:11:59 2022 GMT <unknown@DESKTOP-T8HV9H9>
+# name: A
+# type: scalar
+4.9526420057697997
+
+
+# name: A35
+# type: scalar
+1.7248459696818614
+
+
+# name: X
+# type: matrix
+# rows: 1
+# columns: 9
+ 2.3464101615137753 0.27176720430690277 0.70335536989965552 4.9526420057697997 1.7248459696818614 -60.372870943161146 0.49819700400207478 1.4380105523278774 -3.9088145720178473
+
+
+# name: a
+# type: scalar
+2.3464101615137753
+
+
+# name: ans
+# type: scalar
+0.50647012540759395
+
+
+# name: b
+# type: scalar
+0.27176720430690277
+
+
+# name: b_7
+# type: scalar
+-60.372870943161146
+
+
+# name: c1
+# type: scalar
+0.70335536989965552
+
+
+# name: d3
+# type: scalar
+0.49819700400207478
+
+
+# name: e
+# type: scalar
+1.4380105523278774
+
+
+# name: factor10
+# type: scalar
+-3.9088145720178473
+
+
